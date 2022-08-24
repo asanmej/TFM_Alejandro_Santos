@@ -1,0 +1,4 @@
+Variable	Pattern
+proteinId	protein.id
+geneName	gene.name
+intensityPrefix	LFQ_

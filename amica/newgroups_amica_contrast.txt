@@ -1,0 +1,4 @@
+group1	group2
+B	P
+B	PP
+P	PP
