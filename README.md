@@ -1,7 +1,7 @@
 # TFM_Alejandro_Santos
 This repository aims to store the code and the data used for the analysis of the HDL proteome during postprandial hyperlipidemia. 
 
-## Script
+## Script "Proteomic_HDL_hyperlipidemia.R"
 The Script can be seem as two parts, the first one focused in the preprocessing of the data. Then, the imputed and normalized dataset are used for the differential analysis by amica v2022.07.08 (check author repository https://github.com/tbaccata/amica) and statistical testing by MetaboAnalyst v5.0 (https://www.metaboanalyst.ca/). Amica results are then visualise in the Script. The second part of the Script focused on the coexpression clustering analysis using coseq v3.15 package (https://bioconductor.org/packages/release/bioc/html/coseq.html), in this part the dataset used is the raw data but with missing values imputed by the minimum value in each raw. Finally, the Script visualise the clustering results.
 
 ## Data 
